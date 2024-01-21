@@ -44,9 +44,9 @@ This is a simple Cart Management System implemented in JavaScript using Node.js.
    node index.js
    ```
 
-4. Follow the prompts to enter the quantity and gift wrap information for each product.
+<p>Follow the prompts to enter the quantity and gift wrap information for each product.</p>
 
-5. Review the receipt and total information displayed in the console.
+<p>Review the receipt and total information displayed in the console.</p>
 
 ## Program Structure
 
